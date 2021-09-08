@@ -1,5 +1,5 @@
 <h1 align="center">
-  ![](images/a.png)
+  <a ><img src="https://drive.google.com/uc?id=1oL_G7mIxoY8je3f1skcU3eja5Qu9sztC" height="125px"></a>
   <br>
   Algorithms Visualizer
   <br>
