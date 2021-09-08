@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a >![plot](./images/0.png)</a>
+  ![plot](./images/0.png)
   <br>
   Algorithms Visualizer
   <br>
