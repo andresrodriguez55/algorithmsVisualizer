@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/algorithmsVisualizer/static/css/main.88b131f9.chunk.css",
+    "main.js": "/algorithmsVisualizer/static/js/main.afa205c4.chunk.js",
+    "main.js.map": "/algorithmsVisualizer/static/js/main.afa205c4.chunk.js.map",
+    "runtime-main.js": "/algorithmsVisualizer/static/js/runtime-main.142dc852.js",
+    "runtime-main.js.map": "/algorithmsVisualizer/static/js/runtime-main.142dc852.js.map",
+    "static/js/2.05098277.chunk.js": "/algorithmsVisualizer/static/js/2.05098277.chunk.js",
+    "static/js/2.05098277.chunk.js.map": "/algorithmsVisualizer/static/js/2.05098277.chunk.js.map",
+    "static/js/3.e3da687e.chunk.js": "/algorithmsVisualizer/static/js/3.e3da687e.chunk.js",
+    "static/js/3.e3da687e.chunk.js.map": "/algorithmsVisualizer/static/js/3.e3da687e.chunk.js.map",
+    "index.html": "/algorithmsVisualizer/index.html",
+    "static/css/main.88b131f9.chunk.css.map": "/algorithmsVisualizer/static/css/main.88b131f9.chunk.css.map",
+    "static/js/2.05098277.chunk.js.LICENSE.txt": "/algorithmsVisualizer/static/js/2.05098277.chunk.js.LICENSE.txt",
+    "static/media/ExtendedGcdCode.png": "/algorithmsVisualizer/static/media/ExtendedGcdCode.5c901204.png",
+    "static/media/Gcd.jpg": "/algorithmsVisualizer/static/media/Gcd.37fe335c.jpg",
+    "static/media/Graphs.png": "/algorithmsVisualizer/static/media/Graphs.f25b2333.png",
+    "static/media/Sieve of Eratosthenes.png": "/algorithmsVisualizer/static/media/Sieve of Eratosthenes.7986dec1.png",
+    "static/media/extendedGcd.jpg": "/algorithmsVisualizer/static/media/extendedGcd.efa205a1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.142dc852.js",
+    "static/js/2.05098277.chunk.js",
+    "static/css/main.88b131f9.chunk.css",
+    "static/js/main.afa205c4.chunk.js"
+  ]
+}
