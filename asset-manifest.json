@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/algorithmsVisualizer/static/css/main.4c29295b.chunk.css",
-    "main.js": "/algorithmsVisualizer/static/js/main.b9bf95de.chunk.js",
-    "main.js.map": "/algorithmsVisualizer/static/js/main.b9bf95de.chunk.js.map",
-    "runtime-main.js": "/algorithmsVisualizer/static/js/runtime-main.bd940e52.js",
-    "runtime-main.js.map": "/algorithmsVisualizer/static/js/runtime-main.bd940e52.js.map",
-    "static/js/2.ea6b08f5.chunk.js": "/algorithmsVisualizer/static/js/2.ea6b08f5.chunk.js",
-    "static/js/2.ea6b08f5.chunk.js.map": "/algorithmsVisualizer/static/js/2.ea6b08f5.chunk.js.map",
-    "static/js/3.0c919b85.chunk.js": "/algorithmsVisualizer/static/js/3.0c919b85.chunk.js",
-    "static/js/3.0c919b85.chunk.js.map": "/algorithmsVisualizer/static/js/3.0c919b85.chunk.js.map",
+    "main.js": "/algorithmsVisualizer/static/js/main.09dfeeb0.chunk.js",
+    "main.js.map": "/algorithmsVisualizer/static/js/main.09dfeeb0.chunk.js.map",
+    "runtime-main.js": "/algorithmsVisualizer/static/js/runtime-main.353ac6da.js",
+    "runtime-main.js.map": "/algorithmsVisualizer/static/js/runtime-main.353ac6da.js.map",
+    "static/js/2.8ab0c004.chunk.js": "/algorithmsVisualizer/static/js/2.8ab0c004.chunk.js",
+    "static/js/2.8ab0c004.chunk.js.map": "/algorithmsVisualizer/static/js/2.8ab0c004.chunk.js.map",
+    "static/js/3.56c39c07.chunk.js": "/algorithmsVisualizer/static/js/3.56c39c07.chunk.js",
+    "static/js/3.56c39c07.chunk.js.map": "/algorithmsVisualizer/static/js/3.56c39c07.chunk.js.map",
     "index.html": "/algorithmsVisualizer/index.html",
     "static/css/main.4c29295b.chunk.css.map": "/algorithmsVisualizer/static/css/main.4c29295b.chunk.css.map",
-    "static/js/2.ea6b08f5.chunk.js.LICENSE.txt": "/algorithmsVisualizer/static/js/2.ea6b08f5.chunk.js.LICENSE.txt",
-    "static/media/Graphs.png": "/algorithmsVisualizer/static/media/Graphs.f25b2333.png",
+    "static/js/2.8ab0c004.chunk.js.LICENSE.txt": "/algorithmsVisualizer/static/js/2.8ab0c004.chunk.js.LICENSE.txt",
+    "static/media/Default.png": "/algorithmsVisualizer/static/media/Default.546acca3.png",
+    "static/media/Graphs.png": "/algorithmsVisualizer/static/media/Graphs.28c3537f.png",
     "static/media/Sieve of Eratosthenes.png": "/algorithmsVisualizer/static/media/Sieve of Eratosthenes.7986dec1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd940e52.js",
-    "static/js/2.ea6b08f5.chunk.js",
+    "static/js/runtime-main.353ac6da.js",
+    "static/js/2.8ab0c004.chunk.js",
     "static/css/main.4c29295b.chunk.css",
-    "static/js/main.b9bf95de.chunk.js"
+    "static/js/main.09dfeeb0.chunk.js"
   ]
 }
