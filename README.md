@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">API made with React, Firestore and Material UI.</h4>
+<h4 align="center">API made with React, p5js and Material UI.</h4>
 
 ----
 ### Link
