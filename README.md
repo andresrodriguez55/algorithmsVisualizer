@@ -56,19 +56,13 @@ and the proofs of:
 
 ## Screenshots
 
-<a><img src="https://drive.google.com/uc?id=1tgzkKKoU9_MNemilRe-fKJXoj_VKz1Vf" ></a>
-
-<a ><img src="https://drive.google.com/uc?id=1XTHWbyxTkjPZTpCdOr5nx5EyP6hWTA14" ></a>
-
-<a><img src="https://drive.google.com/uc?id=16Oqeb0fa_bO4Y6YlRFoP5V-OM2XYZ8DD" ></a>
-
-<a><img src="https://drive.google.com/uc?id=11x1GAtG8YeBccdE0p4ObY8-4lewzEuP9" ></a>
-
-<a ><img src="https://drive.google.com/uc?id=14M6V_t1soiISXWSGGcGpC8bESRVInE20" ></a>
-
-<a><img src="https://drive.google.com/uc?id=1ipaxR-siYe2i_YIaHOAteAg7ur6_9-K8" ></a>
-
-<a><img src="https://drive.google.com/uc?id=1gC0vcuP1OYR16VspDZSbaNSSYvgGu16o" ></a>
+<div align="center"><img src="https://drive.google.com/uc?id=1tgzkKKoU9_MNemilRe-fKJXoj_VKz1Vf" >
+<img src="https://drive.google.com/uc?id=1XTHWbyxTkjPZTpCdOr5nx5EyP6hWTA14" >
+<img src="https://drive.google.com/uc?id=16Oqeb0fa_bO4Y6YlRFoP5V-OM2XYZ8DD" >
+<img src="https://drive.google.com/uc?id=11x1GAtG8YeBccdE0p4ObY8-4lewzEuP9" >
+<img src="https://drive.google.com/uc?id=14M6V_t1soiISXWSGGcGpC8bESRVInE20" >
+<img src="https://drive.google.com/uc?id=1ipaxR-siYe2i_YIaHOAteAg7ur6_9-K8" >
+<img src="https://drive.google.com/uc?id=1gC0vcuP1OYR16VspDZSbaNSSYvgGu16o" ></div>
 
 
-```
+
