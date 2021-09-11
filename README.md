@@ -63,6 +63,3 @@ and the proofs of:
 <img src="https://drive.google.com/uc?id=14M6V_t1soiISXWSGGcGpC8bESRVInE20" >
 <img src="https://drive.google.com/uc?id=1ipaxR-siYe2i_YIaHOAteAg7ur6_9-K8" >
 <img src="https://drive.google.com/uc?id=1gC0vcuP1OYR16VspDZSbaNSSYvgGu16o" ></div>
-
-
-
