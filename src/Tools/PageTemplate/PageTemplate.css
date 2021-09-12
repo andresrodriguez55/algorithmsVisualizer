@@ -1,0 +1,212 @@
+@import url(https://fonts.googleapis.com/css2?family=Allison&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@500&display=swap);
+
+.SketchArea, .ExplicationArea
+{
+    margin-top: 30px;
+    padding: 10px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.938);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(206, 206, 206, 0.116);
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.Title
+{
+    text-align: center;
+    font-size: 230%;
+    font-family: 'Allison', cursive;
+    margin-top: -5px;
+    margin-bottom: -10px;
+}
+
+.SketchScreen
+{
+    width: 90%;
+    height: 67vh;
+    top: 25px;
+    margin: 0 auto;
+    position: relative;
+    background:black;
+}
+
+.SketchButtonsArea
+{
+    padding-top: 30px;
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+    object-fit: contain;
+    margin-bottom: 5px;
+}
+
+.Button
+{
+    display: inline-block;
+    background-color: #F9F9F9;
+    border:2px solid #000000;
+    border-color: black;
+    margin:0 1% 1% 0;
+    box-sizing: border-box;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-family:'Roboto',sans-serif;
+    color:#000000;
+    text-align:center;
+    transition: all 0.15s;
+}
+
+.Button:hover
+{
+    color:#1800009f;
+    border-color:#1800009f;
+}
+
+.Button:active
+{
+    color:#580000a6;
+    border-color:#580000a6;
+}
+
+.AlgorithmSelectionArea
+{
+    width: 99%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    margin-top: -6px;
+    margin-bottom: 10px;
+}
+
+.SliderArea
+{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: contain;
+}
+
+.InputArrayArea
+{
+    width: 90%;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: contain;
+    overflow-x:auto;
+}
+
+.InputArrayTable
+{
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: contain;
+    width: 90%;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.2px ;
+    height: 40px;
+    display: table;
+    table-layout: fixed;
+}
+
+.InputArrayRowElement
+{
+    width:100%;
+    height:100%;
+    border-color: black;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px  rgba(0, 0, 0, 0.938);
+    display:table-cell;
+}
+
+.InputArrayNumber
+{
+    width:100%;
+    height:100%;
+}
+
+.PushPopButtonsArea
+{
+    width:100%;
+    height:20px;
+    display: flex;
+    align-items: center;
+    margin-top: -30px;
+}
+
+.ButtonsBetweenSpaceArea
+{
+    width: 40%;
+}
+
+.PushButtonArea, .PopButtonArea
+{
+    width: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ExplicationTitle
+{
+    text-align: center;
+    font-size: 230%;
+    font-family: 'Allison', cursive;
+    margin-top: -5px;
+    margin-bottom: 15px;
+}
+
+.ExplicationInformationArea
+{
+    padding: 10px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+.ExplicationPseudocodeArea
+{
+    padding: 5px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    text-align:justify;
+}
+
+.ExplicationInformationFont, .ExplicationPseudocodeFont
+{
+    white-space: pre-wrap;
+    font-family: 'Kaisei HarunoUmi', serif;
+}
+
+.ExplicationPseudocodeFont
+{
+    font-style: italic;
+    word-wrap: break-word;
+    font-size: 1.2vh;
+    font-weight: 500;
+}
+
+.Image
+{
+    margin-top: 20px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.ImageExplicationArea
+{
+    margin-top: 20px;
+}
+
+.ImageExplication
+{
+    white-space: pre-wrap;
+}
